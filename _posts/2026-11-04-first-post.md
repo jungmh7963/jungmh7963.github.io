@@ -19,3 +19,53 @@ tags:
 ## 게시물 작성 테스트
 
 Markdown 기반으로 작성한 게시물의 레이아웃을 확인합니다.
+
+## 코드 블록 테스트
+
+### Java
+
+```java
+public class Example {
+    public static void main(String[] args) {
+        String message = "Hello, World!";
+        System.out.println(message);
+    }
+}
+```
+
+### TypeScript
+
+```typescript
+interface User {
+    id: number;
+    name: string;
+}
+
+const user: User = {
+    id: 1,
+    name: "Developer"
+};
+
+console.log(user.name);
+```
+
+### SQL
+
+```sql
+SELECT
+    user_id,
+    user_name
+FROM users
+WHERE user_id = 1;
+```
+
+### YAML
+
+```yaml
+server:
+  port: 8080
+
+spring:
+  application:
+    name: example
+```
