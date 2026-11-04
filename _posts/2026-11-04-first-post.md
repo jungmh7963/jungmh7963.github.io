@@ -69,3 +69,9 @@ spring:
   application:
     name: example
 ```
+
+## 이미지 첨부 테스트
+
+일반 Markdown 이미지 삽입 테스트입니다.
+
+![블로그 이미지 테스트](/assets/images/bio-photo.jpg)
