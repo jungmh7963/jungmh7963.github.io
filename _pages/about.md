@@ -3,6 +3,43 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+# 블로그 소개
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+개발 과정에서 경험한 기술과 프로젝트, 그리고 일상에서 얻은 생각과 경험을 기록하고 공유하는 공간입니다.
+
+단순한 정보 전달보다는 직접 경험하고 학습한 내용을 정리하여, 나중에 다시 참고하거나 다른 사람에게 도움이 될 수 있는 기록을 만드는 것을 목적으로 합니다.
+
+## 주요 콘텐츠
+
+### Development
+
+프로그래밍 및 개발 기술과 관련된 내용을 다룹니다.
+
+- Frontend / Backend
+- Database
+- Infrastructure
+- 개발 관련 기술 및 문제 해결 과정
+
+### Projects
+
+프로젝트를 진행하면서 경험한 내용과 결과를 기록합니다.
+
+- 프로젝트 개발 과정
+- 기술 적용 및 검토
+- Troubleshooting
+- 프로젝트 경험 및 회고
+
+### Personal
+
+개인적인 경험과 관심사, 일상에서 생각한 내용을 기록합니다.
+
+## 운영 방향
+
+이 블로그의 게시물은 개인적인 학습과 경험을 바탕으로 작성합니다.
+
+개발 기술과 관련된 내용은 실제 사용 경험을 중심으로 정리하고, 필요한 경우 코드와 이미지 등을 함께 제공합니다.
+
+기록을 통해 지식을 축적하고, 그 과정에서 얻은 경험을 다른 사람들과 공유하고자 합니다.
+
+
+라고 ChatGPT에서 작성함
