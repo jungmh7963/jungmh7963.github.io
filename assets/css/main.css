@@ -1,0 +1,163 @@
+
+/* ==========================================================================
+   Single Page / Post
+   ========================================================================== */
+
+.layout--single .page__inner-wrap {
+  margin-top: 1.5em;
+}
+
+.layout--single .page__title {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  line-height: 1.35;
+  letter-spacing: -0.025em;
+  margin-bottom: 0.45em;
+}
+
+.layout--single .page__meta {
+  margin-top: 0.75em;
+  margin-bottom: 1.8em;
+  line-height: 1.7;
+}
+
+.layout--single .page__content {
+  font-size: 1rem;
+  line-height: 1.85;
+}
+
+.layout--single .page__content p,
+.layout--single .page__content li,
+.layout--single .page__content dl {
+  line-height: 1.85;
+}
+
+/* Headings */
+
+.layout--single .page__content h2 {
+  margin-top: 2.4em;
+  margin-bottom: 0.85em;
+  padding-bottom: 0.45em;
+  line-height: 1.4;
+}
+
+.layout--single .page__content h3 {
+  margin-top: 1.8em;
+  margin-bottom: 0.7em;
+  line-height: 1.45;
+}
+
+.layout--single .page__content h4,
+.layout--single .page__content h5,
+.layout--single .page__content h6 {
+  margin-top: 1.4em;
+  margin-bottom: 0.6em;
+  line-height: 1.5;
+}
+
+/* Code blocks */
+
+.layout--single .page__content pre {
+  margin: 1.5em 0;
+  padding: 1em 1.2em;
+  line-height: 1.65;
+  border-radius: 0.5rem;
+  overflow-x: auto;
+}
+
+.layout--single .page__content .highlight {
+  margin: 1.5em 0;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+/* Images */
+
+.layout--single .page__content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5em auto;
+  border-radius: 0.5rem;
+}
+
+/* Tables */
+
+.layout--single .page__content table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Blockquotes */
+
+.layout--single .page__content blockquote {
+  margin: 1.5em 0;
+  padding: 0.8em 1.1em;
+  border-left-width: 4px;
+  border-radius: 0 0.4rem 0.4rem 0;
+}
+
+.layout--single .page__content hr {
+  margin: 2.5em 0;
+}
+
+/* TOC */
+
+.layout--single .toc {
+  margin-bottom: 2em;
+}
+
+/* Taxonomy */
+
+.layout--single .page__taxonomy {
+  margin-top: 2em;
+}
+
+/* Share */
+
+.layout--single .page__share {
+  margin-top: 2em;
+}
+
+/* Related posts */
+
+.layout--single .page__related {
+  margin-top: 2.5em;
+}
+
+
+/* ==========================================================================
+   Mobile
+   ========================================================================== */
+
+@media (max-width: 768px) {
+
+  .layout--single .page__inner-wrap {
+    margin-top: 0.8em;
+  }
+
+  .layout--single .page__title {
+    font-size: 1.65rem;
+    line-height: 1.4;
+  }
+
+  .layout--single .page__content {
+    font-size: 0.95rem;
+    line-height: 1.8;
+  }
+
+  .layout--single .page__content h2 {
+    margin-top: 2em;
+  }
+
+  .layout--single .page__content pre {
+    padding: 0.85em;
+    font-size: 0.85em;
+  }
+
+  .layout--single .page__content blockquote {
+    padding: 0.7em 0.9em;
+  }
+}
