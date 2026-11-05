@@ -1,6 +1,6 @@
 ---
-title: "개발 양식"
-date: 2026-11-05 10:00:00 +0900
+title: "작성 양식"
+date: 2026-11-05 09:00:00 +0900
 categories:
   - Development
 tags:
